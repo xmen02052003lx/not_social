@@ -1,0 +1,16 @@
+{
+  "name": "not_social",
+  "version": "1.0.0",
+  "description": "Starter template for BS websites",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:assets/css",
+    "sass:watch": "sass --no-source-map -watch scss:assets/css"
+  },
+  "author": "Minh Quan",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "sass": "^1.69.5"
+  }
+}
